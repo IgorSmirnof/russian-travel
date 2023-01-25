@@ -19,16 +19,17 @@
 
 @media (max-width: 1023px) {
   .cover__title {
-    padding-top: 115px;
+    /* padding-top: 115px; */
+    padding-top: calc(100vw/6.68);
   }
 }
 
 @media (max-width: 767px) {
   .cover__title {
-    padding: 33px 0 15px;
-    width: 90vw;
+    padding: 33px 23vw 15px;
+    padding-top: calc(100vw/8.73);
+    max-width: 90vw;
     font-size: 32px;
     line-height: 35px;
-    white-space: pre-line;
   }
 }

@@ -24,5 +24,7 @@
 @media (max-width: 767px) {
   .cover__subtitle {
     padding-bottom: 33px;
+    font-size: 14px;
+    line-height: 16px;
   }
 }
