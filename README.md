@@ -1,5 +1,6 @@
 # Проект: Путешествия по России
 Учебный сайт от Яндекс практикума на котором ученик может отточить свои знания по web - дизайну.  
+![](https://github.com/igorsmirnof/russian-travel/raw/main/images/travel.png)
 
 ### Ссылка для демонстрации проекта:  
 <a href="https://IgorSmirnof.github.io/russian-travel">Путешествия по России<a/>
